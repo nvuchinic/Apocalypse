@@ -1,0 +1,6 @@
+public class Emina extends Zombi{
+	public Emina(String name, double hp, double dex, Weapon wpn, double strenght, double speed){
+		super("Emina",  hp, dex, wpn, strenght,  speed);
+	}
+
+}
