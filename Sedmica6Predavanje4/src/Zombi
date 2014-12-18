@@ -1,0 +1,7 @@
+public class Smoker extends Zombi{
+public Smoker(String name, double hp, double dex, Weapon wpn, double strenght, double speed){
+	super("Smoker",  hp, dex, wpn, strenght,  speed);
+		
+	
+}
+}
